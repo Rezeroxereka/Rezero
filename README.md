@@ -27,4 +27,4 @@ Aqui estão alguns dos meus projetos e exercícios desenvolvidos ao longo do cur
 
 ---
 
-💡 _"Aprender a programar é abrir portas para um novo mundo de possibilidades!-
+💡 _PC lento delete system32 que resolve ;)
